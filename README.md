@@ -85,7 +85,7 @@ Hi there 👋 I’m **Nihal**, a passionate **Data Engineer / Data Analyst** who
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nrm989&theme=radical)
 
 
 🌟 Fun Fact
