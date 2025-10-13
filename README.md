@@ -9,7 +9,7 @@
 Hi there 👋 I’m **Nihal**, a passionate **Data Engineer / Data Analyst** who loves turning raw data into powerful insights and scalable data solutions.  
 
 💡 I specialize in **data modeling**, **ETL pipelines**, and **data visualization** using **Power BI** and **SQL**.  
-🧠 Currently exploring **modern data warehousing tools** like **Snowflake** and **DuckDB**.  
+🧠 Currently exploring **modern data warehousing tools** like **Databricks** and **DuckDB**.  
 ⚙️ I enjoy designing **automated data workflows** and optimizing datasets for both **performance and clarity**.  
 🎯 Always learning, always building — from **data pipelines** to **dashboard storytelling**.  
 
