@@ -25,7 +25,7 @@ Hi there 👋 I’m **Nihal**, a passionate **Data Engineer / Data Analyst** who
 
 ## 🌸 What Am I Working On?  
 
-🔹 I’m currently working on publishing my projects on github ✨
+🔹 I’m currently working on publishing my projects on github ✨.
 🔹 Experimenting with **building agentic-ai solutions** .  
 🔹 Exploring **data observability** and **quality metrics** in modern BI environments.  
 
