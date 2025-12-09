@@ -9,7 +9,7 @@
 Hi there 👋 I’m **Nihal**, a passionate **Data Engineer / Data Analyst** who loves turning raw data into powerful insights and scalable data solutions.  
 
 💡 I specialize in **data modeling**, **ETL pipelines**, and **data visualization** using **Power BI** and **SQL**.  
-🧠 Currently exploring **Azure** .  
+🧠 Currently exploring **Microsoft Fabric** .  
 ⚙️ I enjoy designing **automated data workflows** and optimizing datasets for both **performance and clarity**.  
 🎯 Always learning, always building — from **data pipelines** to **dashboard storytelling**.  
 
@@ -26,7 +26,7 @@ Hi there 👋 I’m **Nihal**, a passionate **Data Engineer / Data Analyst** who
 ## 🌸 What Am I Working On?  
 
 🔹 I’m currently working on publishing my projects on github ✨.
-🔹 Experimenting with **building agentic-ai solutions** .  
+🔹 Experimenting with **building agentic-ai solutions** too.  
 🔹 Exploring **data observability** and **quality metrics** in modern BI environments.  
 
 ---
@@ -37,19 +37,18 @@ Hi there 👋 I’m **Nihal**, a passionate **Data Engineer / Data Analyst** who
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-1E425F?style=for-the-badge&logo=zabbix&logoColor=white)
+
 
 ---
 
 ### Data Engineering & DBMS 📊🗃️  
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Superset](https://img.shields.io/badge/Apache%20Superset-20A0FF?style=for-the-badge&logo=apache-superset&logoColor=white)
 
 ---
 
